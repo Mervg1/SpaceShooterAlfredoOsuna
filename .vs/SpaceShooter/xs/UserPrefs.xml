@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{31EA003C-1CF9-D946-A919-8AC5ED6BE76A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MisilEnemigo.cs">
+    <Files>
+      <File FileName="Assets/Misil.cs" Line="7" Column="4" />
+      <File FileName="Assets/Meteoro.cs" Line="13" Column="2" />
+      <File FileName="Assets/Player.cs" Line="30" Column="48" />
+      <File FileName="Assets/Canion.cs" Line="15" Column="1" />
+      <File FileName="Assets/GameMaster.cs" Line="13" Column="33" />
+      <File FileName="Assets/Enemigo.cs" Line="29" Column="77" />
+      <File FileName="Assets/CanionEnemigo.cs" Line="29" Column="13" />
+      <File FileName="Assets/MisilEnemigo.cs" Line="15" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
